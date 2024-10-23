@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #1a1919;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        form {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #0b0d10;
+        }
+        input[type="number"],
+        select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #3297db;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+        input[type="submit"]:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>$---SALARY PREDICTION---$</h1>
+    <form method="POST">
+        <label for="years_experience">Years of Experience:</label>
+        <input type="number" name="years_experience" required step="0.1">
+
+        <label for="skills">Skills:</label>
+        <select name="skills" required>
+            <option value="Python">Python</option>
+            <option value="Java">Java</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="C++">C++</option>
+            <option value="Ruby">Ruby</option>
+            <option value="Go">Go</option>
+            <option value="Rust">Rust</option>
+            <option value="Swift">Swift</option>
+        </select>
+
+        <label for="interest">Interest:</label>
+        <select name="interest" required>
+            <option value="Web Development">Web Development</option>
+            <option value="Data Science">Data Science</option>
+            <option value="Mobile Development">Mobile Development</option>
+            <option value="DevOps">DevOps</option>
+            <option value="AI/ML">AI/ML</option>
+            <option value="Cybersecurity">Cybersecurity</option>
+            <option value="Cloud Computing">Cloud Computing</option>
+            <option value="IoT">IoT</option>
+        </select>
+
+        <label for="work_environment">Work Environment:</label>
+        <select name="work_environment" required>
+            <option value="Startup">Startup</option>
+            <option value="Enterprise">Enterprise</option>
+            <option value="Freelance">Freelance</option>
+            <option value="Remote">Remote</option>
+            <option value="Hybrid">Hybrid</option>
+            <option value="Government">Government</option>
+            <option value="Non-profit">Non-profit</option>
+            <option value="Research">Research</option>
+        </select>
+
+        <label for="projects">Number of Projects:</label>
+        <input type="number" name="projects" required>
+
+        <input type="submit" value="Predict Salary">
+    </form>
+</body>
+</html>

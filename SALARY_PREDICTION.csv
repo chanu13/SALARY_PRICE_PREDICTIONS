@@ -1,0 +1,1001 @@
+Years_Experience,Skills,Interest,Work_Environment,Projects,Salary
+10,Java,Web Development,Hybrid,4,37000.0
+3,JavaScript,Data Science,Enterprise,10,30000.0
+6,Python,Web Development,Enterprise,4,30000.0
+3,Python,DevOps,Non-profit,4,30000.0
+7,Ruby,Web Development,Freelance,12,34000.0
+6,Go,AI/ML,Freelance,4,30000.0
+5,Java,Data Science,Non-profit,2,30000.0
+5,Go,AI/ML,Startup,12,34000.0
+7,Java,Cloud Computing,Enterprise,9,30000.0
+4,Go,DevOps,Enterprise,1,30000.0
+10,C++,AI/ML,Enterprise,14,44000.0
+3,Java,Cloud Computing,Hybrid,8,30000.0
+10,Go,Mobile Development,Government,6,41000.0
+3,Ruby,Data Science,Freelance,9,30000.0
+3,JavaScript,IoT,Non-profit,5,30000.0
+10,C++,Cybersecurity,Startup,4,34000.0
+0,Go,Cloud Computing,Hybrid,2,30000.0
+3,Go,DevOps,Research,7,30000.0
+10,Swift,Mobile Development,Hybrid,3,33000.0
+3,Ruby,Cloud Computing,Non-profit,6,30000.0
+3,JavaScript,IoT,Enterprise,13,32000.0
+0,Java,Mobile Development,Freelance,13,30000.0
+10,Rust,Data Science,Non-profit,7,41000.0
+9,Swift,AI/ML,Startup,11,35000.0
+1,Ruby,Cybersecurity,Enterprise,5,30000.0
+6,JavaScript,IoT,Startup,12,33000.0
+4,JavaScript,Data Science,Hybrid,14,30000.0
+10,C++,Mobile Development,Government,13,47000.0
+2,Python,Cybersecurity,Research,1,30000.0
+1,Go,AI/ML,Remote,1,30000.0
+3,Java,Data Science,Research,14,30000.0
+1,JavaScript,Mobile Development,Research,9,30000.0
+2,Ruby,Cloud Computing,Remote,15,30000.0
+8,C++,AI/ML,Non-profit,11,33000.0
+10,Go,IoT,Research,2,41000.0
+3,C++,Data Science,Government,1,30000.0
+9,C++,DevOps,Startup,2,32000.0
+10,Python,DevOps,Enterprise,15,36000.0
+0,Go,Data Science,Remote,5,30000.0
+10,Swift,DevOps,Freelance,12,47000.0
+9,Swift,DevOps,Research,13,49000.0
+6,C++,Data Science,Enterprise,11,32000.0
+6,Go,Cloud Computing,Non-profit,8,30000.0
+0,Java,Web Development,Non-profit,12,30000.0
+5,Java,DevOps,Remote,4,30000.0
+8,Swift,Mobile Development,Non-profit,3,30000.0
+4,Swift,DevOps,Enterprise,8,30000.0
+8,Java,Web Development,Startup,2,32000.0
+3,JavaScript,Cloud Computing,Research,8,30000.0
+3,Rust,Web Development,Freelance,7,30000.0
+0,Rust,AI/ML,Research,5,30000.0
+6,Swift,Mobile Development,Remote,5,30000.0
+3,Python,Web Development,Government,1,30000.0
+0,Swift,Mobile Development,Startup,9,30000.0
+1,JavaScript,Data Science,Enterprise,11,30000.0
+3,Rust,Data Science,Remote,10,30000.0
+9,Python,Data Science,Non-profit,11,35000.0
+9,Go,AI/ML,Remote,11,40000.0
+5,C++,AI/ML,Non-profit,3,30000.0
+10,Ruby,IoT,Government,15,54000.0
+1,Python,IoT,Enterprise,2,30000.0
+8,C++,AI/ML,Freelance,15,41000.0
+5,Java,DevOps,Government,5,30000.0
+2,Swift,AI/ML,Startup,11,30000.0
+8,Ruby,Data Science,Freelance,5,35000.0
+1,Java,Mobile Development,Hybrid,5,30000.0
+9,C++,Cybersecurity,Remote,11,41000.0
+10,Ruby,IoT,Hybrid,15,54000.0
+0,Java,Cloud Computing,Hybrid,1,30000.0
+0,Go,Mobile Development,Hybrid,3,30000.0
+7,Rust,Web Development,Enterprise,2,30000.0
+2,Python,Cybersecurity,Freelance,7,30000.0
+2,Python,AI/ML,Government,15,30000.0
+0,Go,DevOps,Remote,11,30000.0
+1,Go,Cloud Computing,Freelance,15,30000.0
+3,JavaScript,Mobile Development,Non-profit,1,30000.0
+2,Go,Cloud Computing,Remote,5,30000.0
+2,Java,Cloud Computing,Startup,14,30000.0
+7,C++,DevOps,Research,6,31000.0
+4,C++,DevOps,Startup,11,30000.0
+3,Rust,Cybersecurity,Hybrid,14,30000.0
+1,Ruby,Cybersecurity,Non-profit,11,30000.0
+8,Go,Web Development,Enterprise,15,49000.0
+4,JavaScript,AI/ML,Startup,2,30000.0
+9,Rust,Cybersecurity,Government,7,35000.0
+9,Java,Cloud Computing,Remote,5,32000.0
+0,Rust,Web Development,Remote,6,30000.0
+6,Java,Cybersecurity,Government,11,33000.0
+1,Ruby,AI/ML,Non-profit,6,30000.0
+6,Ruby,Mobile Development,Remote,7,30000.0
+10,Rust,Mobile Development,Hybrid,7,41000.0
+8,Python,AI/ML,Hybrid,4,35000.0
+6,Go,IoT,Research,8,30000.0
+10,C++,IoT,Freelance,11,43000.0
+1,Ruby,Cybersecurity,Enterprise,14,30000.0
+3,Ruby,DevOps,Remote,3,30000.0
+0,Python,DevOps,Research,10,30000.0
+1,Swift,Cloud Computing,Remote,12,30000.0
+6,Swift,Cloud Computing,Remote,3,30000.0
+10,Python,Data Science,Non-profit,4,34000.0
+2,Swift,Web Development,Remote,15,30000.0
+1,Swift,Mobile Development,Research,11,30000.0
+8,Go,IoT,Non-profit,14,41000.0
+8,Swift,Mobile Development,Research,8,33000.0
+4,C++,AI/ML,Research,11,30000.0
+3,Ruby,IoT,Enterprise,12,30000.0
+4,C++,AI/ML,Government,6,31000.0
+8,Java,Mobile Development,Freelance,4,30000.0
+6,JavaScript,DevOps,Enterprise,7,30000.0
+6,Go,IoT,Non-profit,1,30000.0
+3,Rust,Cloud Computing,Startup,14,30000.0
+9,Rust,IoT,Startup,6,37000.0
+4,Rust,Cloud Computing,Remote,8,30000.0
+3,Ruby,Cloud Computing,Research,1,30000.0
+6,Go,Cloud Computing,Freelance,14,35000.0
+7,JavaScript,Web Development,Non-profit,10,34000.0
+9,Python,Data Science,Non-profit,3,31000.0
+7,JavaScript,Web Development,Hybrid,7,30000.0
+5,C++,IoT,Government,6,31000.0
+6,Ruby,Cloud Computing,Hybrid,14,40000.0
+1,Swift,Web Development,Startup,6,30000.0
+3,Java,Web Development,Startup,4,30000.0
+3,Python,Mobile Development,Remote,3,30000.0
+7,Java,DevOps,Research,12,30000.0
+4,Go,Mobile Development,Enterprise,13,31000.0
+2,Ruby,Data Science,Startup,15,34000.0
+4,Rust,Cloud Computing,Remote,2,30000.0
+9,C++,Data Science,Hybrid,14,40000.0
+10,Java,Web Development,Government,9,41000.0
+6,Go,Data Science,Government,1,30000.0
+6,Swift,Data Science,Non-profit,6,30000.0
+10,Swift,Mobile Development,Non-profit,3,38000.0
+8,Ruby,IoT,Research,7,30000.0
+9,Ruby,Cybersecurity,Remote,14,47000.0
+1,Ruby,IoT,Remote,13,30000.0
+7,Rust,Cybersecurity,Startup,8,41000.0
+5,JavaScript,IoT,Remote,6,30000.0
+4,Go,AI/ML,Hybrid,9,30000.0
+0,C++,Data Science,Remote,12,30000.0
+6,Swift,DevOps,Research,11,30000.0
+7,Swift,Web Development,Enterprise,5,30000.0
+3,Rust,DevOps,Hybrid,11,31000.0
+9,Go,IoT,Government,7,31000.0
+8,Go,Cybersecurity,Research,5,34000.0
+4,Ruby,DevOps,Enterprise,12,30000.0
+3,Go,Data Science,Freelance,4,30000.0
+3,Swift,AI/ML,Hybrid,2,30000.0
+3,Ruby,DevOps,Government,3,30000.0
+4,Python,Mobile Development,Hybrid,1,30000.0
+0,Ruby,Mobile Development,Research,2,30000.0
+0,Ruby,IoT,Research,8,30000.0
+5,JavaScript,Web Development,Hybrid,14,32000.0
+7,Java,Data Science,Non-profit,8,30000.0
+1,Python,Mobile Development,Freelance,13,30000.0
+9,Ruby,Data Science,Remote,2,33000.0
+8,Rust,DevOps,Non-profit,8,33000.0
+7,Ruby,Cloud Computing,Hybrid,10,44000.0
+9,Python,Data Science,Remote,11,41000.0
+3,Ruby,Data Science,Freelance,4,30000.0
+2,Java,Mobile Development,Startup,7,30000.0
+7,Swift,AI/ML,Startup,4,30000.0
+4,Ruby,IoT,Enterprise,11,31000.0
+3,Ruby,DevOps,Non-profit,2,30000.0
+8,C++,Mobile Development,Hybrid,14,36000.0
+2,Java,Web Development,Freelance,13,30000.0
+4,Ruby,IoT,Enterprise,8,30000.0
+4,Rust,AI/ML,Research,8,30000.0
+1,Python,Cloud Computing,Government,10,30000.0
+4,Python,Data Science,Remote,11,30000.0
+9,Python,AI/ML,Startup,13,37000.0
+2,Swift,IoT,Hybrid,3,30000.0
+9,Rust,IoT,Enterprise,8,36000.0
+5,Rust,Cybersecurity,Government,11,30000.0
+1,JavaScript,Cybersecurity,Non-profit,12,30000.0
+7,Ruby,Cloud Computing,Startup,8,34000.0
+1,Go,AI/ML,Government,2,30000.0
+6,Python,IoT,Non-profit,1,30000.0
+3,Go,IoT,Research,13,34000.0
+0,C++,AI/ML,Freelance,15,30000.0
+4,Swift,IoT,Enterprise,1,32000.0
+10,C++,Mobile Development,Hybrid,9,45000.0
+0,Rust,Data Science,Remote,14,30000.0
+1,Swift,Data Science,Freelance,8,30000.0
+4,Ruby,Cloud Computing,Research,8,30000.0
+3,Swift,Mobile Development,Non-profit,4,30000.0
+9,JavaScript,Data Science,Hybrid,13,45000.0
+6,Go,AI/ML,Startup,5,30000.0
+4,Swift,Mobile Development,Research,9,30000.0
+7,Go,Cybersecurity,Non-profit,8,30000.0
+5,C++,DevOps,Non-profit,4,30000.0
+6,Python,Cybersecurity,Research,12,30000.0
+6,Rust,Mobile Development,Research,1,30000.0
+2,Go,Data Science,Research,2,30000.0
+8,Swift,Web Development,Freelance,7,30000.0
+10,JavaScript,Data Science,Research,13,46000.0
+4,Go,Cloud Computing,Enterprise,14,32000.0
+5,Rust,Cybersecurity,Research,14,30000.0
+8,Python,Data Science,Remote,11,36000.0
+10,Ruby,DevOps,Enterprise,7,40000.0
+1,Java,IoT,Freelance,12,30000.0
+4,Python,Web Development,Government,13,30000.0
+0,Ruby,Cybersecurity,Government,7,30000.0
+2,C++,Cloud Computing,Freelance,3,30000.0
+2,Java,Cloud Computing,Remote,8,30000.0
+9,JavaScript,DevOps,Research,11,34000.0
+4,Swift,AI/ML,Startup,15,30000.0
+7,Ruby,Mobile Development,Enterprise,8,34000.0
+5,Ruby,Cloud Computing,Hybrid,8,30000.0
+4,C++,Cloud Computing,Research,2,30000.0
+3,Rust,Cybersecurity,Hybrid,12,45000.0
+4,Python,Cloud Computing,Hybrid,1,30000.0
+9,Python,IoT,Hybrid,13,48000.0
+3,Go,DevOps,Remote,10,30000.0
+4,JavaScript,Data Science,Startup,5,30000.0
+7,Python,Cybersecurity,Freelance,2,30000.0
+4,Go,Cloud Computing,Freelance,4,30000.0
+2,Go,AI/ML,Freelance,5,30000.0
+7,Ruby,Cybersecurity,Enterprise,8,31000.0
+1,JavaScript,DevOps,Non-profit,14,30000.0
+8,Go,Data Science,Non-profit,1,30000.0
+4,Java,IoT,Government,11,38000.0
+10,Ruby,Cloud Computing,Government,2,30000.0
+10,C++,IoT,Startup,10,47000.0
+8,Go,DevOps,Enterprise,11,30000.0
+7,Ruby,Cloud Computing,Enterprise,3,30000.0
+0,Python,AI/ML,Research,2,30000.0
+1,C++,Mobile Development,Non-profit,8,30000.0
+5,Rust,Mobile Development,Non-profit,11,30000.0
+1,Swift,Cloud Computing,Hybrid,1,30000.0
+5,C++,IoT,Research,4,30000.0
+5,Java,Cybersecurity,Government,1,30000.0
+6,Ruby,DevOps,Enterprise,14,36000.0
+7,Java,DevOps,Startup,1,30000.0
+5,C++,Mobile Development,Remote,2,30000.0
+8,C++,DevOps,Remote,6,43000.0
+2,Python,AI/ML,Freelance,3,30000.0
+8,Ruby,Mobile Development,Enterprise,11,30000.0
+0,JavaScript,Web Development,Government,13,30000.0
+3,Go,Web Development,Freelance,5,30000.0
+0,JavaScript,Cloud Computing,Enterprise,12,30000.0
+1,Swift,IoT,Government,9,30000.0
+9,Java,IoT,Remote,10,39000.0
+0,Ruby,IoT,Startup,1,30000.0
+7,Rust,Cloud Computing,Enterprise,8,38000.0
+7,Java,Data Science,Government,10,30000.0
+2,Java,Mobile Development,Hybrid,10,30000.0
+10,Go,Cloud Computing,Hybrid,8,40000.0
+8,Rust,Data Science,Enterprise,14,38000.0
+10,C++,Cloud Computing,Research,15,58000.0
+3,Rust,Cybersecurity,Research,7,30000.0
+6,Java,Cybersecurity,Non-profit,6,30000.0
+10,Ruby,Cybersecurity,Freelance,11,49000.0
+7,Java,Data Science,Enterprise,2,34000.0
+6,Java,Cybersecurity,Freelance,9,34000.0
+0,Go,Data Science,Non-profit,6,30000.0
+10,Rust,Web Development,Hybrid,10,41000.0
+4,Go,Data Science,Remote,3,30000.0
+10,Swift,DevOps,Enterprise,6,36000.0
+8,Go,Data Science,Hybrid,10,39000.0
+3,Rust,Web Development,Hybrid,1,30000.0
+2,Ruby,AI/ML,Government,6,30000.0
+0,JavaScript,Mobile Development,Non-profit,2,30000.0
+2,Python,Data Science,Remote,7,30000.0
+6,Swift,Cybersecurity,Freelance,6,30000.0
+4,Go,Data Science,Startup,3,30000.0
+2,Python,Data Science,Hybrid,8,30000.0
+10,Rust,IoT,Research,7,51000.0
+4,C++,Data Science,Government,7,30000.0
+1,Ruby,IoT,Hybrid,1,30000.0
+3,Rust,Web Development,Startup,4,30000.0
+4,C++,Mobile Development,Hybrid,5,30000.0
+5,Java,Web Development,Research,12,30000.0
+6,JavaScript,Mobile Development,Non-profit,9,35000.0
+3,Go,Data Science,Non-profit,14,30000.0
+0,Rust,Web Development,Research,15,30000.0
+1,Go,Cloud Computing,Non-profit,12,30000.0
+10,Rust,AI/ML,Enterprise,7,42000.0
+0,Go,Mobile Development,Research,14,30000.0
+5,Java,Cloud Computing,Enterprise,4,30000.0
+6,Rust,Data Science,Non-profit,14,34000.0
+4,Go,DevOps,Government,13,30000.0
+2,Java,Data Science,Remote,15,30000.0
+5,Go,Mobile Development,Remote,2,30000.0
+2,Ruby,DevOps,Freelance,10,30000.0
+2,Java,Mobile Development,Research,8,30000.0
+9,Swift,Cybersecurity,Government,3,30000.0
+7,Java,IoT,Research,11,35000.0
+4,Ruby,Web Development,Government,9,30000.0
+1,Ruby,IoT,Research,1,30000.0
+0,Go,AI/ML,Enterprise,11,30000.0
+1,Rust,IoT,Startup,8,30000.0
+9,C++,Cybersecurity,Research,9,37000.0
+2,Python,IoT,Enterprise,13,30000.0
+5,Java,Mobile Development,Startup,4,30000.0
+7,Swift,Mobile Development,Government,6,33000.0
+4,Rust,Cloud Computing,Government,11,30000.0
+9,Python,Cybersecurity,Enterprise,6,39000.0
+1,Rust,AI/ML,Hybrid,12,30000.0
+10,JavaScript,Cybersecurity,Enterprise,10,46000.0
+10,JavaScript,Cybersecurity,Hybrid,11,47000.0
+10,Rust,Mobile Development,Enterprise,5,34000.0
+8,Rust,Cybersecurity,Freelance,11,36000.0
+10,Java,Cloud Computing,Government,1,38000.0
+5,Ruby,Mobile Development,Remote,6,30000.0
+7,C++,DevOps,Freelance,3,30000.0
+1,Ruby,Data Science,Startup,11,30000.0
+5,JavaScript,Cloud Computing,Freelance,3,30000.0
+2,JavaScript,IoT,Startup,7,30000.0
+5,C++,IoT,Hybrid,13,35000.0
+7,C++,DevOps,Hybrid,13,36000.0
+7,C++,Cybersecurity,Research,8,32000.0
+4,Rust,Cloud Computing,Freelance,14,36000.0
+3,JavaScript,AI/ML,Startup,11,30000.0
+7,Go,Data Science,Enterprise,5,33000.0
+1,JavaScript,AI/ML,Research,15,30000.0
+8,JavaScript,Cloud Computing,Enterprise,15,42000.0
+3,Swift,Cybersecurity,Startup,7,30000.0
+0,Rust,Cybersecurity,Remote,7,30000.0
+1,Go,DevOps,Startup,6,30000.0
+1,Go,Mobile Development,Freelance,1,30000.0
+4,Swift,Mobile Development,Research,8,30000.0
+9,Python,Data Science,Startup,5,35000.0
+3,JavaScript,Cloud Computing,Enterprise,13,30000.0
+4,C++,AI/ML,Enterprise,1,30000.0
+3,Rust,IoT,Enterprise,2,30000.0
+7,Python,DevOps,Freelance,5,30000.0
+6,Python,Cybersecurity,Remote,10,36000.0
+6,JavaScript,Data Science,Government,2,30000.0
+8,Python,Cloud Computing,Research,1,31000.0
+10,Rust,Cybersecurity,Hybrid,12,50000.0
+0,Go,Data Science,Government,4,30000.0
+10,Java,Cybersecurity,Freelance,1,30000.0
+5,Go,Mobile Development,Research,12,31000.0
+7,JavaScript,Mobile Development,Enterprise,12,31000.0
+7,Python,AI/ML,Remote,1,30000.0
+3,Python,Cybersecurity,Hybrid,9,30000.0
+6,Swift,AI/ML,Startup,13,31000.0
+10,C++,AI/ML,Government,14,46000.0
+0,Go,AI/ML,Enterprise,13,30000.0
+5,Rust,Cloud Computing,Research,15,32000.0
+6,Go,Mobile Development,Research,12,30000.0
+7,Go,AI/ML,Enterprise,12,38000.0
+6,Java,Cloud Computing,Freelance,9,31000.0
+4,Go,Data Science,Enterprise,6,30000.0
+10,Ruby,AI/ML,Research,10,42000.0
+6,JavaScript,IoT,Government,8,31000.0
+0,Go,Cloud Computing,Hybrid,11,30000.0
+0,Java,Cloud Computing,Government,9,30000.0
+10,JavaScript,Web Development,Freelance,14,42000.0
+9,Swift,Web Development,Freelance,2,31000.0
+3,Go,Cybersecurity,Non-profit,10,30000.0
+0,JavaScript,IoT,Government,6,30000.0
+7,Java,Mobile Development,Government,7,34000.0
+5,Ruby,DevOps,Enterprise,1,30000.0
+2,Swift,Cloud Computing,Enterprise,5,30000.0
+4,Swift,DevOps,Hybrid,12,30000.0
+7,C++,Data Science,Freelance,14,37000.0
+1,Swift,Mobile Development,Research,2,30000.0
+10,Go,Cybersecurity,Enterprise,9,44000.0
+8,Ruby,AI/ML,Freelance,12,35000.0
+10,JavaScript,Cybersecurity,Remote,2,37000.0
+3,JavaScript,DevOps,Research,1,30000.0
+5,Go,IoT,Freelance,10,30000.0
+1,Java,AI/ML,Non-profit,12,30000.0
+7,Rust,Cloud Computing,Enterprise,3,32000.0
+5,Java,IoT,Research,11,30000.0
+8,Go,Mobile Development,Freelance,13,41000.0
+2,Rust,Web Development,Enterprise,9,30000.0
+2,Ruby,Mobile Development,Freelance,6,30000.0
+3,Go,AI/ML,Enterprise,5,30000.0
+3,Ruby,Mobile Development,Hybrid,10,30000.0
+8,Java,Mobile Development,Freelance,3,31000.0
+10,Go,Web Development,Startup,2,41000.0
+0,Ruby,DevOps,Non-profit,10,30000.0
+10,Python,IoT,Hybrid,11,54000.0
+4,Swift,DevOps,Non-profit,5,30000.0
+7,Java,Web Development,Freelance,8,34000.0
+6,Swift,IoT,Remote,6,30000.0
+9,JavaScript,Cybersecurity,Government,12,53000.0
+5,Rust,Mobile Development,Government,9,30000.0
+8,Java,Cybersecurity,Remote,8,30000.0
+1,Ruby,IoT,Remote,3,30000.0
+1,Python,AI/ML,Non-profit,14,30000.0
+9,Rust,DevOps,Freelance,14,42000.0
+5,Go,DevOps,Freelance,8,30000.0
+8,Swift,IoT,Hybrid,8,38000.0
+0,Java,Cloud Computing,Research,4,30000.0
+3,Go,Web Development,Startup,5,30000.0
+7,Swift,AI/ML,Startup,14,44000.0
+1,Rust,Mobile Development,Hybrid,12,30000.0
+5,Rust,Cybersecurity,Startup,7,30000.0
+0,C++,Cybersecurity,Hybrid,2,30000.0
+6,Swift,AI/ML,Enterprise,3,30000.0
+1,Rust,Cybersecurity,Government,9,30000.0
+5,JavaScript,DevOps,Non-profit,9,32000.0
+0,Python,Web Development,Freelance,12,30000.0
+5,Swift,IoT,Freelance,10,30000.0
+8,JavaScript,Cybersecurity,Government,3,37000.0
+6,Ruby,Cybersecurity,Research,12,34000.0
+9,Ruby,IoT,Startup,6,43000.0
+5,Java,Cloud Computing,Hybrid,13,30000.0
+10,Python,IoT,Hybrid,11,41000.0
+9,C++,Web Development,Research,3,32000.0
+8,Rust,Mobile Development,Remote,1,30000.0
+9,Java,DevOps,Startup,8,34000.0
+5,Rust,Mobile Development,Non-profit,12,34000.0
+3,Rust,IoT,Startup,12,30000.0
+2,C++,Cybersecurity,Research,9,30000.0
+6,Go,Mobile Development,Research,15,37000.0
+8,Go,Cybersecurity,Hybrid,10,41000.0
+7,C++,DevOps,Hybrid,9,36000.0
+4,C++,AI/ML,Hybrid,12,30000.0
+3,Swift,Cybersecurity,Research,6,30000.0
+8,Ruby,AI/ML,Enterprise,10,43000.0
+10,Rust,Cloud Computing,Government,13,50000.0
+2,Ruby,Web Development,Hybrid,12,30000.0
+1,Go,IoT,Hybrid,12,30000.0
+7,C++,DevOps,Hybrid,15,39000.0
+8,Ruby,Mobile Development,Enterprise,10,42000.0
+9,C++,DevOps,Startup,11,40000.0
+8,C++,DevOps,Startup,2,38000.0
+6,Go,IoT,Enterprise,11,42000.0
+2,Python,Mobile Development,Non-profit,11,30000.0
+7,Swift,DevOps,Hybrid,6,36000.0
+4,Python,Data Science,Remote,9,30000.0
+0,JavaScript,Cloud Computing,Freelance,15,30000.0
+0,Rust,IoT,Freelance,15,30000.0
+4,Python,Web Development,Hybrid,10,30000.0
+9,Java,Cybersecurity,Hybrid,8,43000.0
+10,Swift,Mobile Development,Research,5,31000.0
+3,Java,Cybersecurity,Freelance,12,30000.0
+7,Ruby,Mobile Development,Startup,12,30000.0
+5,Ruby,DevOps,Freelance,10,30000.0
+10,Rust,Cloud Computing,Government,2,41000.0
+6,Java,Mobile Development,Freelance,8,35000.0
+5,C++,Web Development,Hybrid,7,30000.0
+3,Swift,AI/ML,Government,5,30000.0
+9,Python,AI/ML,Government,12,34000.0
+3,Python,Data Science,Research,5,30000.0
+2,Rust,AI/ML,Enterprise,11,30000.0
+4,Go,DevOps,Remote,3,30000.0
+7,JavaScript,IoT,Government,7,31000.0
+8,Swift,DevOps,Remote,11,30000.0
+9,Java,IoT,Government,2,32000.0
+9,Java,Web Development,Remote,10,31000.0
+8,JavaScript,Mobile Development,Government,14,43000.0
+8,Swift,Data Science,Remote,12,42000.0
+9,Swift,Data Science,Research,13,40000.0
+0,Swift,Mobile Development,Non-profit,8,30000.0
+9,Python,IoT,Hybrid,12,36000.0
+0,Rust,AI/ML,Startup,12,30000.0
+3,Java,Web Development,Non-profit,6,30000.0
+1,Python,Data Science,Research,1,30000.0
+4,Rust,Mobile Development,Freelance,13,31000.0
+10,Rust,Cybersecurity,Non-profit,8,40000.0
+6,Rust,Data Science,Freelance,11,30000.0
+5,Java,Mobile Development,Non-profit,9,30000.0
+2,C++,Web Development,Startup,5,30000.0
+7,Rust,Cloud Computing,Remote,4,30000.0
+7,Go,Mobile Development,Hybrid,4,30000.0
+1,Python,Cloud Computing,Startup,4,30000.0
+3,Java,Data Science,Startup,8,30000.0
+9,Python,DevOps,Startup,7,31000.0
+7,C++,DevOps,Startup,3,30000.0
+8,Ruby,DevOps,Government,10,37000.0
+9,Go,DevOps,Hybrid,15,44000.0
+2,C++,Cloud Computing,Hybrid,5,30000.0
+0,JavaScript,Cloud Computing,Research,1,30000.0
+5,Rust,Cybersecurity,Non-profit,7,30000.0
+2,Ruby,Cloud Computing,Freelance,13,30000.0
+8,Swift,DevOps,Remote,5,32000.0
+2,Swift,Web Development,Non-profit,7,30000.0
+8,JavaScript,Cloud Computing,Remote,5,30000.0
+3,Go,Data Science,Research,14,33000.0
+5,Java,DevOps,Startup,5,30000.0
+6,Python,Data Science,Remote,13,30000.0
+9,C++,IoT,Remote,14,48000.0
+5,Ruby,Web Development,Remote,15,34000.0
+3,Java,IoT,Remote,12,39000.0
+9,C++,Cloud Computing,Remote,9,45000.0
+5,Ruby,Cloud Computing,Research,9,30000.0
+10,Go,AI/ML,Hybrid,6,35000.0
+8,Swift,IoT,Enterprise,13,34000.0
+7,Go,DevOps,Government,6,32000.0
+6,Python,DevOps,Freelance,1,30000.0
+4,Rust,AI/ML,Freelance,4,30000.0
+5,C++,Cloud Computing,Remote,8,30000.0
+8,Go,AI/ML,Research,12,35000.0
+10,Swift,IoT,Freelance,12,56000.0
+5,JavaScript,Mobile Development,Research,3,30000.0
+8,Python,Web Development,Enterprise,14,38000.0
+10,Python,Web Development,Non-profit,3,41000.0
+10,C++,Data Science,Freelance,1,33000.0
+3,Swift,Cybersecurity,Startup,10,30000.0
+10,Swift,IoT,Startup,1,44000.0
+8,Rust,Web Development,Startup,9,38000.0
+4,Ruby,Web Development,Non-profit,13,30000.0
+2,Java,Data Science,Freelance,4,30000.0
+3,Ruby,Cybersecurity,Hybrid,13,30000.0
+6,Java,Cybersecurity,Non-profit,8,30000.0
+9,C++,DevOps,Hybrid,11,45000.0
+1,Python,Data Science,Non-profit,7,30000.0
+6,Swift,Web Development,Startup,12,30000.0
+2,Java,IoT,Non-profit,11,30000.0
+5,Java,Web Development,Remote,4,30000.0
+9,Swift,AI/ML,Startup,15,44000.0
+1,Ruby,Web Development,Freelance,15,30000.0
+5,Python,DevOps,Freelance,13,30000.0
+6,Java,AI/ML,Freelance,10,30000.0
+3,Rust,Cybersecurity,Non-profit,13,30000.0
+2,Java,Cybersecurity,Startup,2,30000.0
+6,C++,Data Science,Government,10,30000.0
+9,Rust,Cybersecurity,Startup,11,41000.0
+4,Swift,IoT,Remote,6,30000.0
+8,Rust,Cloud Computing,Freelance,11,37000.0
+9,Rust,Data Science,Hybrid,13,47000.0
+3,Java,Data Science,Hybrid,3,30000.0
+6,JavaScript,Cloud Computing,Government,6,30000.0
+1,Java,Web Development,Hybrid,8,30000.0
+5,Ruby,Data Science,Freelance,2,30000.0
+2,Rust,IoT,Non-profit,2,30000.0
+0,Java,Cybersecurity,Enterprise,10,30000.0
+9,Go,Cloud Computing,Startup,5,33000.0
+6,Rust,Data Science,Remote,10,34000.0
+8,JavaScript,Cloud Computing,Freelance,3,30000.0
+4,Ruby,AI/ML,Research,3,30000.0
+1,JavaScript,Cloud Computing,Hybrid,7,30000.0
+4,Swift,Data Science,Government,5,30000.0
+3,Swift,DevOps,Research,2,30000.0
+2,Ruby,Web Development,Non-profit,6,30000.0
+9,Rust,Cybersecurity,Research,6,41000.0
+6,JavaScript,AI/ML,Government,10,30000.0
+3,Swift,Cybersecurity,Freelance,7,30000.0
+5,Ruby,IoT,Remote,6,30000.0
+6,Ruby,Cloud Computing,Government,2,30000.0
+9,C++,Mobile Development,Startup,12,41000.0
+7,C++,IoT,Hybrid,14,35000.0
+1,Rust,IoT,Freelance,11,30000.0
+4,C++,AI/ML,Freelance,12,32000.0
+6,Rust,Data Science,Research,10,30000.0
+7,Rust,Cloud Computing,Startup,13,42000.0
+5,Java,Data Science,Remote,11,30000.0
+10,Go,Mobile Development,Startup,10,45000.0
+10,Rust,Cybersecurity,Non-profit,2,44000.0
+0,Java,AI/ML,Remote,9,30000.0
+8,C++,IoT,Government,7,31000.0
+7,JavaScript,Cybersecurity,Startup,8,34000.0
+1,Ruby,Cloud Computing,Enterprise,2,30000.0
+2,Go,AI/ML,Government,8,30000.0
+3,Swift,Cybersecurity,Research,2,30000.0
+7,Swift,Cybersecurity,Enterprise,5,31000.0
+0,Java,Web Development,Government,11,30000.0
+1,JavaScript,DevOps,Freelance,9,30000.0
+2,Go,Cloud Computing,Research,4,30000.0
+6,JavaScript,Mobile Development,Non-profit,7,30000.0
+0,C++,IoT,Non-profit,7,30000.0
+0,C++,DevOps,Hybrid,13,30000.0
+1,Java,Mobile Development,Government,6,30000.0
+3,Swift,Data Science,Hybrid,11,30000.0
+7,Go,Cloud Computing,Non-profit,10,34000.0
+1,Go,Cybersecurity,Research,10,30000.0
+2,Ruby,Data Science,Freelance,6,30000.0
+1,C++,AI/ML,Enterprise,3,30000.0
+5,JavaScript,Cloud Computing,Non-profit,10,30000.0
+2,Rust,Cloud Computing,Freelance,8,30000.0
+10,JavaScript,Mobile Development,Research,5,35000.0
+2,JavaScript,Cybersecurity,Research,10,30000.0
+0,Go,Web Development,Research,3,30000.0
+3,Rust,IoT,Non-profit,11,30000.0
+7,Rust,IoT,Research,3,30000.0
+1,Python,DevOps,Hybrid,1,30000.0
+4,C++,AI/ML,Freelance,13,36000.0
+7,Swift,Data Science,Enterprise,5,31000.0
+8,Go,Web Development,Research,9,35000.0
+3,Rust,Data Science,Remote,5,30000.0
+0,Swift,AI/ML,Government,14,30000.0
+1,Swift,Data Science,Remote,4,30000.0
+9,Go,Cloud Computing,Freelance,10,45000.0
+2,C++,DevOps,Startup,10,30000.0
+5,Ruby,Mobile Development,Government,12,36000.0
+4,Ruby,AI/ML,Enterprise,3,30000.0
+6,Python,AI/ML,Freelance,12,30000.0
+2,C++,Mobile Development,Government,14,30000.0
+3,Rust,IoT,Freelance,10,35000.0
+10,Ruby,Cloud Computing,Non-profit,8,43000.0
+1,Java,Cloud Computing,Hybrid,12,30000.0
+5,Swift,IoT,Government,10,30000.0
+0,Java,IoT,Government,14,30000.0
+1,Rust,DevOps,Non-profit,14,30000.0
+3,Swift,AI/ML,Government,14,30000.0
+4,Go,Mobile Development,Research,13,30000.0
+5,Python,Web Development,Enterprise,11,30000.0
+7,Python,Data Science,Freelance,8,32000.0
+7,Python,Cloud Computing,Remote,12,37000.0
+2,Ruby,Mobile Development,Hybrid,2,30000.0
+10,Go,AI/ML,Enterprise,6,37000.0
+10,JavaScript,Web Development,Non-profit,11,41000.0
+4,C++,Cloud Computing,Enterprise,12,30000.0
+1,Python,DevOps,Research,2,30000.0
+2,C++,IoT,Startup,1,30000.0
+5,Java,Cloud Computing,Freelance,8,30000.0
+1,C++,Cloud Computing,Enterprise,12,30000.0
+1,Java,Cybersecurity,Government,15,30000.0
+4,JavaScript,Cloud Computing,Freelance,11,33000.0
+10,JavaScript,Data Science,Startup,10,43000.0
+10,JavaScript,IoT,Government,12,55000.0
+3,JavaScript,Cloud Computing,Research,14,30000.0
+3,Java,Data Science,Freelance,13,30000.0
+1,Rust,Cybersecurity,Non-profit,6,30000.0
+2,C++,AI/ML,Enterprise,4,30000.0
+8,Ruby,Web Development,Hybrid,4,34000.0
+8,C++,Cloud Computing,Hybrid,11,38000.0
+0,C++,IoT,Non-profit,2,30000.0
+3,Swift,Data Science,Startup,6,30000.0
+5,JavaScript,Cloud Computing,Non-profit,6,37000.0
+8,JavaScript,IoT,Enterprise,1,30000.0
+9,Java,Web Development,Hybrid,4,33000.0
+0,Python,Cloud Computing,Hybrid,11,30000.0
+8,Rust,Cloud Computing,Non-profit,2,34000.0
+10,JavaScript,AI/ML,Enterprise,5,38000.0
+1,C++,Mobile Development,Government,7,30000.0
+9,Java,AI/ML,Non-profit,12,44000.0
+3,Python,DevOps,Enterprise,15,34000.0
+6,Java,IoT,Startup,5,32000.0
+10,JavaScript,Data Science,Startup,12,51000.0
+2,Python,Mobile Development,Research,6,30000.0
+8,Ruby,Mobile Development,Government,3,30000.0
+4,Java,Web Development,Government,13,30000.0
+6,Ruby,Data Science,Hybrid,12,33000.0
+9,Java,IoT,Research,9,45000.0
+5,Python,IoT,Freelance,6,30000.0
+2,Ruby,Data Science,Enterprise,4,30000.0
+8,Python,Web Development,Startup,4,30000.0
+0,Swift,Cybersecurity,Non-profit,15,30000.0
+2,JavaScript,Web Development,Non-profit,4,30000.0
+5,C++,Cloud Computing,Government,5,30000.0
+1,Go,Data Science,Startup,3,30000.0
+3,Python,Cloud Computing,Enterprise,15,30000.0
+7,Ruby,AI/ML,Government,2,30000.0
+8,Swift,Web Development,Government,4,30000.0
+4,Ruby,DevOps,Research,6,30000.0
+9,Swift,DevOps,Remote,3,43000.0
+0,Rust,Web Development,Remote,9,30000.0
+5,Python,Cybersecurity,Startup,13,30000.0
+10,Rust,AI/ML,Enterprise,4,37000.0
+8,C++,Cloud Computing,Research,1,30000.0
+2,Ruby,Data Science,Startup,15,30000.0
+3,Rust,Cybersecurity,Research,12,30000.0
+1,Java,Mobile Development,Non-profit,2,30000.0
+9,Python,Cloud Computing,Freelance,4,36000.0
+4,Ruby,Cybersecurity,Non-profit,12,37000.0
+5,Go,IoT,Hybrid,4,30000.0
+1,C++,Mobile Development,Enterprise,3,30000.0
+1,JavaScript,IoT,Research,6,30000.0
+6,Java,Cybersecurity,Remote,8,41000.0
+4,Swift,AI/ML,Enterprise,2,30000.0
+2,Ruby,Web Development,Remote,14,30000.0
+5,JavaScript,Data Science,Remote,6,30000.0
+6,Python,AI/ML,Hybrid,14,35000.0
+2,Python,Cloud Computing,Research,9,30000.0
+8,C++,Data Science,Research,2,30000.0
+2,Java,Web Development,Startup,14,30000.0
+3,JavaScript,DevOps,Non-profit,6,30000.0
+10,Java,AI/ML,Enterprise,1,30000.0
+1,C++,IoT,Freelance,2,30000.0
+5,Java,Web Development,Research,1,30000.0
+2,Rust,Cloud Computing,Research,1,30000.0
+6,Rust,Mobile Development,Government,4,33000.0
+2,Ruby,AI/ML,Research,15,30000.0
+2,Python,DevOps,Hybrid,8,30000.0
+6,Swift,Web Development,Enterprise,5,32000.0
+6,JavaScript,Cloud Computing,Remote,11,30000.0
+8,C++,Web Development,Non-profit,13,37000.0
+5,Swift,IoT,Government,15,34000.0
+9,Go,Cloud Computing,Hybrid,3,30000.0
+0,Go,DevOps,Startup,15,30000.0
+4,Python,IoT,Government,13,30000.0
+9,C++,Mobile Development,Enterprise,4,42000.0
+10,C++,AI/ML,Startup,13,50000.0
+3,Rust,Cybersecurity,Freelance,3,30000.0
+3,Go,Cybersecurity,Startup,12,30000.0
+5,JavaScript,DevOps,Research,9,30000.0
+4,JavaScript,IoT,Startup,2,30000.0
+0,C++,DevOps,Startup,9,30000.0
+7,Python,Cybersecurity,Remote,13,30000.0
+2,Go,Mobile Development,Government,1,30000.0
+0,JavaScript,Mobile Development,Enterprise,14,30000.0
+8,Go,Data Science,Government,12,37000.0
+10,Rust,Data Science,Government,5,42000.0
+5,JavaScript,Mobile Development,Non-profit,13,33000.0
+10,Swift,Cybersecurity,Freelance,12,45000.0
+8,Go,DevOps,Freelance,7,40000.0
+4,Ruby,Mobile Development,Freelance,12,30000.0
+0,Rust,Web Development,Freelance,10,30000.0
+5,C++,Data Science,Research,3,30000.0
+5,Java,DevOps,Government,6,30000.0
+2,Java,Cybersecurity,Research,1,30000.0
+4,C++,DevOps,Enterprise,6,30000.0
+4,Java,Web Development,Startup,7,30000.0
+7,Rust,Mobile Development,Non-profit,8,32000.0
+6,Go,Cloud Computing,Enterprise,14,33000.0
+7,C++,Mobile Development,Research,2,31000.0
+0,Ruby,Web Development,Government,5,30000.0
+1,Java,Cybersecurity,Freelance,15,30000.0
+6,JavaScript,Data Science,Enterprise,6,30000.0
+9,Swift,Web Development,Non-profit,11,45000.0
+2,Rust,Mobile Development,Startup,2,30000.0
+5,C++,DevOps,Non-profit,12,39000.0
+8,Ruby,AI/ML,Hybrid,4,30000.0
+1,Python,Cloud Computing,Research,3,30000.0
+0,Go,Web Development,Non-profit,2,30000.0
+4,Swift,DevOps,Enterprise,1,30000.0
+3,JavaScript,AI/ML,Enterprise,8,30000.0
+1,Ruby,Cloud Computing,Research,8,30000.0
+10,Ruby,Data Science,Non-profit,3,36000.0
+5,Rust,Cybersecurity,Freelance,8,33000.0
+0,Ruby,IoT,Research,5,30000.0
+3,Ruby,Web Development,Freelance,13,30000.0
+10,Java,Data Science,Government,13,43000.0
+8,Rust,DevOps,Startup,14,41000.0
+6,Rust,IoT,Remote,8,33000.0
+4,Java,Cloud Computing,Startup,9,30000.0
+9,JavaScript,Data Science,Research,3,30000.0
+2,C++,DevOps,Freelance,1,30000.0
+6,Java,Cloud Computing,Remote,14,35000.0
+10,JavaScript,AI/ML,Government,15,47000.0
+1,Java,Cloud Computing,Non-profit,9,30000.0
+5,Ruby,IoT,Startup,13,33000.0
+9,Rust,Data Science,Non-profit,3,31000.0
+2,Java,Data Science,Enterprise,13,30000.0
+4,Go,Cloud Computing,Hybrid,7,30000.0
+10,Swift,IoT,Startup,3,33000.0
+4,Rust,Mobile Development,Non-profit,1,30000.0
+6,Go,DevOps,Startup,12,30000.0
+7,Ruby,Cybersecurity,Startup,6,35000.0
+4,Ruby,AI/ML,Research,14,32000.0
+10,Java,DevOps,Freelance,5,38000.0
+7,Go,AI/ML,Non-profit,10,40000.0
+10,Java,DevOps,Research,4,45000.0
+6,Swift,Cybersecurity,Startup,9,37000.0
+2,Java,AI/ML,Non-profit,3,30000.0
+8,Python,Mobile Development,Remote,15,34000.0
+3,Python,DevOps,Startup,8,30000.0
+0,Go,DevOps,Hybrid,6,30000.0
+7,Rust,Data Science,Startup,4,30000.0
+5,Swift,IoT,Freelance,14,31000.0
+7,Go,Cybersecurity,Freelance,14,40000.0
+4,Java,AI/ML,Startup,7,30000.0
+0,JavaScript,DevOps,Remote,11,30000.0
+3,C++,AI/ML,Non-profit,9,30000.0
+0,Python,IoT,Freelance,11,30000.0
+2,Python,DevOps,Hybrid,10,30000.0
+4,Ruby,Cloud Computing,Non-profit,14,30000.0
+5,Swift,AI/ML,Remote,8,33000.0
+4,Rust,Data Science,Startup,9,30000.0
+10,Go,AI/ML,Hybrid,11,58000.0
+1,Swift,Data Science,Government,5,30000.0
+10,Go,AI/ML,Hybrid,11,46000.0
+10,Ruby,DevOps,Freelance,9,38000.0
+3,Python,Cloud Computing,Government,11,30000.0
+2,Python,IoT,Hybrid,5,30000.0
+6,Rust,Cloud Computing,Startup,10,33000.0
+9,C++,Cybersecurity,Remote,11,54000.0
+8,Swift,Cybersecurity,Hybrid,14,43000.0
+2,JavaScript,AI/ML,Enterprise,8,30000.0
+2,Ruby,Mobile Development,Government,11,30000.0
+1,C++,Cybersecurity,Remote,12,30000.0
+4,Rust,Cybersecurity,Government,5,31000.0
+9,Ruby,IoT,Enterprise,8,36000.0
+0,Java,IoT,Remote,9,30000.0
+1,Rust,AI/ML,Non-profit,1,30000.0
+2,JavaScript,DevOps,Government,7,30000.0
+9,Swift,Mobile Development,Government,14,48000.0
+2,Java,IoT,Government,11,30000.0
+2,Go,Web Development,Startup,8,30000.0
+4,C++,Mobile Development,Freelance,8,30000.0
+1,JavaScript,Cloud Computing,Non-profit,7,30000.0
+6,Swift,Cloud Computing,Startup,1,30000.0
+8,C++,Cybersecurity,Startup,15,41000.0
+5,C++,Web Development,Startup,11,30000.0
+3,C++,Cybersecurity,Hybrid,3,30000.0
+1,Rust,AI/ML,Freelance,2,30000.0
+0,Ruby,AI/ML,Research,12,30000.0
+8,Go,Cloud Computing,Freelance,6,37000.0
+7,Go,DevOps,Freelance,15,42000.0
+6,Python,DevOps,Remote,12,37000.0
+2,C++,Web Development,Freelance,2,30000.0
+5,Python,Cloud Computing,Hybrid,13,33000.0
+8,Python,Web Development,Enterprise,11,35000.0
+0,Python,Data Science,Non-profit,8,30000.0
+6,Java,AI/ML,Research,12,35000.0
+2,C++,Web Development,Hybrid,7,30000.0
+10,Java,AI/ML,Freelance,7,40000.0
+1,Java,AI/ML,Enterprise,13,30000.0
+1,Swift,DevOps,Remote,13,30000.0
+4,C++,Cybersecurity,Non-profit,5,30000.0
+2,Python,IoT,Remote,12,30000.0
+7,Go,DevOps,Startup,1,30000.0
+10,Java,Data Science,Research,3,35000.0
+1,Java,Data Science,Hybrid,11,30000.0
+3,Swift,AI/ML,Hybrid,8,30000.0
+0,Java,Mobile Development,Startup,14,30000.0
+4,Go,Cybersecurity,Non-profit,12,30000.0
+1,Java,Web Development,Startup,14,30000.0
+2,JavaScript,Cybersecurity,Government,15,30000.0
+7,Ruby,Data Science,Government,14,36000.0
+5,JavaScript,Data Science,Non-profit,7,30000.0
+7,Ruby,Cloud Computing,Research,13,36000.0
+6,JavaScript,Data Science,Freelance,12,38000.0
+0,JavaScript,Data Science,Non-profit,15,30000.0
+9,Swift,IoT,Freelance,10,41000.0
+6,Go,Web Development,Freelance,8,30000.0
+7,Java,Cloud Computing,Research,1,32000.0
+1,Ruby,Cybersecurity,Startup,12,30000.0
+10,C++,Cybersecurity,Enterprise,7,45000.0
+10,C++,IoT,Government,11,38000.0
+10,Rust,Mobile Development,Startup,1,35000.0
+10,JavaScript,IoT,Research,14,52000.0
+2,Java,IoT,Government,4,30000.0
+5,Ruby,Web Development,Remote,9,31000.0
+10,Rust,Cloud Computing,Remote,2,34000.0
+7,Swift,IoT,Enterprise,14,47000.0
+7,Swift,Cybersecurity,Enterprise,8,45000.0
+10,Python,Data Science,Non-profit,7,36000.0
+0,Python,Data Science,Hybrid,15,30000.0
+8,C++,IoT,Government,6,41000.0
+0,C++,IoT,Government,9,30000.0
+9,Swift,Cybersecurity,Research,2,32000.0
+1,C++,Web Development,Government,6,30000.0
+10,Ruby,Cybersecurity,Enterprise,1,33000.0
+2,Swift,Mobile Development,Non-profit,2,30000.0
+4,C++,DevOps,Enterprise,15,30000.0
+6,C++,IoT,Remote,12,30000.0
+5,Java,Cloud Computing,Startup,15,30000.0
+10,Java,IoT,Research,11,44000.0
+9,JavaScript,IoT,Startup,9,40000.0
+0,Rust,IoT,Freelance,12,30000.0
+9,JavaScript,Mobile Development,Enterprise,7,31000.0
+10,Go,Cloud Computing,Non-profit,10,50000.0
+3,Ruby,Cloud Computing,Government,5,30000.0
+7,JavaScript,Mobile Development,Non-profit,10,33000.0
+8,Ruby,Cybersecurity,Remote,4,35000.0
+3,Ruby,Cybersecurity,Freelance,12,30000.0
+10,JavaScript,Cybersecurity,Enterprise,13,47000.0
+5,Swift,Cloud Computing,Hybrid,15,36000.0
+6,Python,Data Science,Startup,7,30000.0
+2,Python,Web Development,Remote,5,30000.0
+2,Ruby,AI/ML,Freelance,14,35000.0
+0,Ruby,DevOps,Startup,6,30000.0
+7,Java,DevOps,Non-profit,4,30000.0
+8,Ruby,Web Development,Non-profit,7,30000.0
+6,Go,Web Development,Startup,12,30000.0
+4,C++,IoT,Remote,15,30000.0
+10,Go,DevOps,Remote,5,44000.0
+7,JavaScript,Data Science,Freelance,3,33000.0
+8,Java,Cloud Computing,Startup,7,30000.0
+4,Ruby,Mobile Development,Freelance,10,30000.0
+4,Python,Cybersecurity,Research,12,30000.0
+2,Python,Mobile Development,Government,10,30000.0
+0,Ruby,IoT,Government,2,30000.0
+5,C++,Mobile Development,Enterprise,13,31000.0
+8,JavaScript,Cloud Computing,Non-profit,2,30000.0
+5,C++,DevOps,Government,6,32000.0
+5,Ruby,DevOps,Research,9,37000.0
+10,Python,Data Science,Government,8,36000.0
+3,C++,Web Development,Government,7,30000.0
+1,Rust,AI/ML,Hybrid,1,30000.0
+8,Go,IoT,Research,1,32000.0
+4,C++,Cybersecurity,Enterprise,2,30000.0
+2,Python,Data Science,Remote,11,30000.0
+10,C++,Cloud Computing,Enterprise,4,36000.0
+8,Rust,Data Science,Freelance,1,30000.0
+7,Go,Web Development,Enterprise,2,30000.0
+0,JavaScript,AI/ML,Enterprise,10,30000.0
+3,Ruby,Cloud Computing,Non-profit,8,30000.0
+10,Rust,Cloud Computing,Government,1,45000.0
+6,Java,Web Development,Enterprise,13,30000.0
+9,Python,Data Science,Government,15,44000.0
+8,Java,AI/ML,Hybrid,10,36000.0
+1,Ruby,IoT,Non-profit,7,30000.0
+10,Python,IoT,Freelance,9,54000.0
+3,JavaScript,Cloud Computing,Hybrid,11,30000.0
+2,Ruby,Cybersecurity,Startup,9,30000.0
+8,JavaScript,Data Science,Startup,1,31000.0
+9,Rust,Data Science,Hybrid,4,38000.0
+5,C++,Cloud Computing,Freelance,3,31000.0
+2,C++,AI/ML,Remote,2,30000.0
+2,Python,IoT,Enterprise,5,30000.0
+10,Java,AI/ML,Enterprise,4,39000.0
+9,Swift,Cybersecurity,Government,3,41000.0
+10,C++,Data Science,Hybrid,10,46000.0
+1,C++,Cybersecurity,Research,8,30000.0
+5,Ruby,Mobile Development,Government,13,36000.0
+5,Rust,Mobile Development,Startup,6,30000.0
+3,C++,Cloud Computing,Hybrid,14,33000.0
+5,JavaScript,Cybersecurity,Research,8,30000.0
+7,Go,AI/ML,Research,9,33000.0
+1,JavaScript,Data Science,Hybrid,14,30000.0
+2,C++,AI/ML,Enterprise,12,30000.0
+1,Python,Web Development,Non-profit,13,30000.0
+9,C++,Web Development,Hybrid,9,40000.0
+8,Swift,Mobile Development,Government,7,33000.0
+3,Ruby,Mobile Development,Research,9,30000.0
+8,Java,Cloud Computing,Government,9,42000.0
+0,C++,Mobile Development,Freelance,8,30000.0
+2,JavaScript,Mobile Development,Research,6,30000.0
+0,C++,IoT,Remote,2,30000.0
+4,Go,DevOps,Startup,11,30000.0
+3,Go,Cloud Computing,Research,15,32000.0
+7,Python,Web Development,Government,2,35000.0
+8,Ruby,AI/ML,Freelance,7,33000.0
+10,Rust,Cybersecurity,Enterprise,9,44000.0
+4,Rust,DevOps,Non-profit,6,30000.0
+5,Swift,IoT,Startup,9,37000.0
+2,Swift,Mobile Development,Remote,2,30000.0
+8,Ruby,DevOps,Freelance,3,31000.0
+2,Go,Data Science,Remote,7,30000.0
+5,Java,IoT,Research,8,30000.0
+3,JavaScript,Cloud Computing,Startup,4,30000.0
+0,JavaScript,Mobile Development,Freelance,11,30000.0
+8,Python,Mobile Development,Startup,3,33000.0
+4,JavaScript,Cloud Computing,Startup,15,30000.0
+10,Ruby,Data Science,Remote,8,41000.0
+9,Swift,IoT,Freelance,4,33000.0
+6,JavaScript,Mobile Development,Hybrid,3,30000.0
+10,Go,IoT,Enterprise,4,31000.0
+6,Rust,Mobile Development,Enterprise,1,30000.0
+3,Rust,Mobile Development,Enterprise,3,30000.0
+7,Python,Data Science,Enterprise,8,37000.0
+10,JavaScript,Web Development,Non-profit,9,40000.0
+6,Go,Web Development,Non-profit,4,30000.0
+7,Rust,Cybersecurity,Enterprise,7,42000.0
+2,Ruby,IoT,Remote,15,30000.0
+1,Ruby,Cloud Computing,Hybrid,4,30000.0
+0,Python,Data Science,Startup,7,30000.0
+10,C++,Cybersecurity,Non-profit,6,37000.0
+1,JavaScript,Cloud Computing,Hybrid,5,30000.0
+8,Rust,Cybersecurity,Hybrid,11,43000.0
+6,C++,Cloud Computing,Research,3,30000.0
+5,Swift,AI/ML,Hybrid,10,30000.0
+5,Rust,Mobile Development,Enterprise,12,30000.0
+3,Swift,Mobile Development,Enterprise,4,30000.0
+8,Rust,Cybersecurity,Startup,3,34000.0
+6,Python,Data Science,Freelance,8,30000.0
+9,Rust,Data Science,Enterprise,5,44000.0
+3,Go,Data Science,Startup,12,30000.0
+6,Rust,AI/ML,Startup,13,30000.0
+2,Swift,IoT,Startup,4,30000.0
+10,Ruby,DevOps,Startup,13,45000.0
+9,C++,Mobile Development,Startup,6,36000.0
+3,Python,Mobile Development,Enterprise,5,30000.0
+6,Go,Cloud Computing,Non-profit,10,34000.0
+3,Python,Data Science,Enterprise,9,30000.0
+4,Go,Cybersecurity,Hybrid,4,30000.0
+9,C++,IoT,Non-profit,10,41000.0
+0,Ruby,Mobile Development,Non-profit,9,30000.0
+1,Java,AI/ML,Government,2,30000.0
+8,Ruby,AI/ML,Research,7,37000.0
+9,Swift,DevOps,Government,13,47000.0
+7,Swift,Web Development,Research,2,30000.0
+4,Java,Cloud Computing,Remote,11,30000.0
+3,Go,Cloud Computing,Government,9,30000.0
+8,Python,AI/ML,Remote,5,32000.0
+1,Rust,Cybersecurity,Enterprise,9,30000.0
+2,Swift,Cybersecurity,Government,4,30000.0
+9,Ruby,Mobile Development,Remote,8,45000.0
+3,C++,DevOps,Hybrid,4,30000.0
+3,C++,DevOps,Government,3,30000.0
+1,Java,Data Science,Research,10,30000.0
+0,Python,IoT,Government,10,30000.0
+5,Swift,AI/ML,Research,3,30000.0
+8,Ruby,Cloud Computing,Remote,13,37000.0
+9,JavaScript,Web Development,Non-profit,8,41000.0
+8,Python,Cybersecurity,Non-profit,14,37000.0
+10,JavaScript,IoT,Enterprise,12,43000.0
+8,Swift,Cybersecurity,Startup,1,30000.0
+10,C++,Cloud Computing,Enterprise,6,37000.0
+5,Ruby,Mobile Development,Hybrid,4,30000.0
+4,Swift,Cybersecurity,Government,3,30000.0
+7,Rust,DevOps,Non-profit,12,41000.0
+5,Go,Cloud Computing,Hybrid,8,31000.0
+2,JavaScript,DevOps,Enterprise,12,30000.0
+4,C++,Cloud Computing,Non-profit,4,30000.0
+2,JavaScript,IoT,Startup,3,30000.0
+6,Swift,Mobile Development,Government,13,35000.0
+7,Ruby,AI/ML,Startup,7,30000.0
+1,JavaScript,Web Development,Remote,14,30000.0
+4,Swift,Data Science,Research,12,33000.0
+5,Ruby,Cybersecurity,Government,9,30000.0
+8,Ruby,Cybersecurity,Startup,7,34000.0
+1,Go,DevOps,Freelance,13,30000.0
+4,Go,Cybersecurity,Research,13,30000.0
+7,Java,Cloud Computing,Hybrid,8,30000.0
+10,JavaScript,Mobile Development,Government,7,36000.0
+10,Rust,Data Science,Enterprise,3,31000.0
+5,C++,Cybersecurity,Government,11,30000.0
+4,Ruby,Cloud Computing,Hybrid,15,40000.0
+7,Go,IoT,Non-profit,3,32000.0
+2,Python,Mobile Development,Remote,11,30000.0
+4,Java,DevOps,Freelance,7,30000.0
